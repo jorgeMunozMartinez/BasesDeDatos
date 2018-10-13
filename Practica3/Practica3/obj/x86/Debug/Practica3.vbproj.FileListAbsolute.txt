@@ -1,0 +1,25 @@
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\sesion 3\Practica3\Practica3\bin\x86\Debug\Practica3.exe.config
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\sesion 3\Practica3\Practica3\bin\x86\Debug\Practica3.exe
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\sesion 3\Practica3\Practica3\bin\x86\Debug\Practica3.pdb
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\sesion 3\Practica3\Practica3\bin\x86\Debug\Practica3.xml
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\sesion 3\Practica3\Practica3\obj\x86\Debug\Practica3.Resources.resources
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\sesion 3\Practica3\Practica3\obj\x86\Debug\Practica3.CargarBBDD.resources
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\sesion 3\Practica3\Practica3\obj\x86\Debug\Practica3.OpcionesValores.resources
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\sesion 3\Practica3\Practica3\obj\x86\Debug\Practica3.vbproj.GenerateResource.Cache
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\sesion 3\Practica3\Practica3\obj\x86\Debug\Practica3.exe
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\sesion 3\Practica3\Practica3\obj\x86\Debug\Practica3.xml
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\sesion 3\Practica3\Practica3\obj\x86\Debug\Practica3.pdb
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\sesion 3\Practica3\Practica3\obj\x86\Debug\Practica3.vbprojResolveAssemblyReference.cache
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\Practica3\Practica3\bin\x86\Debug\Practica3.exe.config
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\Practica3\Practica3\obj\x86\Debug\Practica3.exe
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\Practica3\Practica3\obj\x86\Debug\Practica3.xml
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\Practica3\Practica3\obj\x86\Debug\Practica3.pdb
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\Practica3\Practica3\bin\x86\Debug\Practica3.exe
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\Practica3\Practica3\bin\x86\Debug\Practica3.pdb
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\Practica3\Practica3\bin\x86\Debug\Practica3.xml
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\Practica3\Practica3\obj\x86\Debug\Practica3.vbprojResolveAssemblyReference.cache
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\Practica3\Practica3\obj\x86\Debug\Practica3.Resources.resources
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\Practica3\Practica3\obj\x86\Debug\Practica3.CargarBBDD.resources
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\Practica3\Practica3\obj\x86\Debug\Practica3.OpcionesValores.resources
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\Practica3\Practica3\obj\x86\Debug\Practica3.vbproj.GenerateResource.Cache
+C:\Users\Jorge\Desktop\antonio-sempai\ddbb 2017\lab\Practica3\Practica3\obj\x86\Debug\Practica3.CV.resources
